@@ -4,5 +4,5 @@
 <h2>👨‍💻<a href ="">Software Development Projects:</a></h2>
 <h2>👨‍💻<a href ="">Data Analysis/ Data Science Projects:</a></h2>
 <h2>👨‍💻<a href ="">IT Service Delivery Projects:</a></h2>
-<h2><a href ="">CCTV Projects:</a></h2>
+<h2>👨‍💻<a href ="">CCTV Projects:</a></h2>
 
