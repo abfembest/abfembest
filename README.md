@@ -24,10 +24,6 @@
 [linkedin]: https://linkedin.com/in/abfembest
 
 
-
-
-<!DOCTYPE html>
-<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -57,14 +53,7 @@ body {
 
 
     </style>
-</head>
-<body>
-    <h2 class="collapsible">Click to Toggle Paragraph</h2>
-    <div class="content">
-        <p>This is the paragraph that will be toggled when the heading is clicked. You can add more content here as needed.</p>
-    </div>
-
-    <script type = "">
+    <script>
     
     // script.js
 document.addEventListener('DOMContentLoaded', function() {
@@ -79,8 +68,15 @@ document.addEventListener('DOMContentLoaded', function() {
         }
     });
 });
+</script>
+</head>
+<body>
+    <h2 class="collapsible">Click to Toggle Paragraph</h2>
+    <div class="content">
+        <p>This is the paragraph that will be toggled when the heading is clicked. You can add more content here as needed.</p>
+    </div>
 
-    </script>
+    
 </body>
 </html>
 
