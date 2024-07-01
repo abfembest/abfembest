@@ -1,4 +1,5 @@
-<h1>Hi, I'm Josh! <br/><a href="">Cybersecurity</a>, <a href="">Programmer</a>, <a href="">Data Scientist</a></h1>
+<h1>Hi, I'm Josh! <br/><a href="">Cybersecurity</a>, <a href="">Programmer</a>, <a href="">, and Data Scientist</a></h1>
+<h3>Kindly click on the link to view the corresponding projects.</h3>
 <h2>👨‍💻<a href = "">Cybersecurity Projects:</a></h2>
 <h2>👨‍💻<a href = "">Software Development Projects:</a></h2>
 <h2>👨‍💻<a href = "">Data Analysis/Data ScienceProjects:</a></h2>
