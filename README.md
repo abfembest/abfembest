@@ -1,10 +1,11 @@
-<h1>Hi, I'm Josh! <br/><a href="https">Cybersecurity</a>, <a href="">Programmer</a>, <a href="">Data Scientist</a></h1>
-
+<h1>Hi, I'm Josh! <br/>
+<a href="https">Cybersecurity</a>, <a href="">Programmer</a>, <a href="">Data Scientist</a></h1>
 <h2>👨‍💻<a href = "">Cybersecurity Projects:</a><h2>
 <h2>👨‍💻<a href = "">Software Development Projects:</a><h2>
 <h2>👨‍💻<a href = "">Data Analysis/Data ScienceProjects:</a><h2>
 <h2>👨‍💻<a href = "">IT Service Delivery Projects:</a><h2>
 <h2>👨‍💻<a href = "">CCTV Projects:</a></h2>
+  
 Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 - [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
