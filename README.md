@@ -32,19 +32,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Collapsible Paragraph</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-    <h2 class="collapsible">Click to Toggle Paragraph</h2>
-    <div class="content">
-        <p>This is the paragraph that will be toggled when the heading is clicked. You can add more content here as needed.</p>
-    </div>
-
-    <script src="script.js"></script>
-</body>
-</html>
-
-/* styles.css */
+    <style>
+        /* styles.css */
 body {
     font-family: Arial, sans-serif;
 }
@@ -66,7 +55,18 @@ body {
     background-color: #f9f9f9;
 }
 
-// script.js
+
+    </style>
+</head>
+<body>
+    <h2 class="collapsible">Click to Toggle Paragraph</h2>
+    <div class="content">
+        <p>This is the paragraph that will be toggled when the heading is clicked. You can add more content here as needed.</p>
+    </div>
+
+    <script type = "">
+    
+    // script.js
 document.addEventListener('DOMContentLoaded', function() {
     const collapsible = document.querySelector('.collapsible');
     const content = document.querySelector('.content');
@@ -79,3 +79,8 @@ document.addEventListener('DOMContentLoaded', function() {
         }
     });
 });
+
+    </script>
+</body>
+</html>
+
